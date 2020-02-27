@@ -1,0 +1,11 @@
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\bin\Debug\ProductValidating.exe.config
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\bin\Debug\ProductValidating.exe
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\bin\Debug\ProductValidating.pdb
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\obj\Debug\ProductValidating.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\obj\Debug\ProductValidating.Form1.resources
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\obj\Debug\ProductValidating.Form2.resources
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\obj\Debug\ProductValidating.Properties.Resources.resources
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\obj\Debug\ProductValidating.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\obj\Debug\ProductValidating.csproj.CoreCompileInputs.cache
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\obj\Debug\ProductValidating.exe
+C:\Users\Thean\source\repos\ProductValidating\ProductValidating\obj\Debug\ProductValidating.pdb

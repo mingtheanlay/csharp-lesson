@@ -1,0 +1,10 @@
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.exe.config
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.exe
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\bin\Debug\ArithmeticOperation.pdb
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.Form1.resources
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.Properties.Resources.resources
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.csproj.CoreCompileInputs.cache
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.exe
+C:\Users\Thean\source\repos\ArithmeticOperation\ArithmeticOperation\obj\Debug\ArithmeticOperation.pdb

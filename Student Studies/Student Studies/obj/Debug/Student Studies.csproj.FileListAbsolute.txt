@@ -1,0 +1,10 @@
+C:\Users\Thean\source\repos\Student Studies\Student Studies\bin\Debug\Student Studies.exe.config
+C:\Users\Thean\source\repos\Student Studies\Student Studies\bin\Debug\Student Studies.exe
+C:\Users\Thean\source\repos\Student Studies\Student Studies\bin\Debug\Student Studies.pdb
+C:\Users\Thean\source\repos\Student Studies\Student Studies\obj\Debug\Student Studies.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\Student Studies\Student Studies\obj\Debug\Student_Studies.Form1.resources
+C:\Users\Thean\source\repos\Student Studies\Student Studies\obj\Debug\Student_Studies.Properties.Resources.resources
+C:\Users\Thean\source\repos\Student Studies\Student Studies\obj\Debug\Student Studies.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\Student Studies\Student Studies\obj\Debug\Student Studies.exe
+C:\Users\Thean\source\repos\Student Studies\Student Studies\obj\Debug\Student Studies.pdb
+C:\Users\Thean\source\repos\Student Studies\Student Studies\obj\Debug\Student_Studies.Form2.resources

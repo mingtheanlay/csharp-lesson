@@ -1,0 +1,10 @@
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\bin\Debug\Banches Expense.exe.config
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\bin\Debug\Banches Expense.exe
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\bin\Debug\Banches Expense.pdb
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\obj\Debug\Branches Expense.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\obj\Debug\Banches_Expense.Form1.resources
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\obj\Debug\Banches_Expense.Properties.Resources.resources
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\obj\Debug\Branches Expense.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\obj\Debug\Banches Expense.exe
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\obj\Debug\Banches Expense.pdb
+C:\Users\Thean\source\repos\Banches Expense\Banches Expense\obj\Debug\Banches_Expense.Form2.resources

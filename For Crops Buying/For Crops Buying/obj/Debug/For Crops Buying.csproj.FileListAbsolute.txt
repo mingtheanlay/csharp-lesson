@@ -1,0 +1,9 @@
+C:\Users\Thean\source\repos\For Crops Buying\For Crops Buying\bin\Debug\For Crops Buying.exe.config
+C:\Users\Thean\source\repos\For Crops Buying\For Crops Buying\bin\Debug\For Crops Buying.exe
+C:\Users\Thean\source\repos\For Crops Buying\For Crops Buying\bin\Debug\For Crops Buying.pdb
+C:\Users\Thean\source\repos\For Crops Buying\For Crops Buying\obj\Debug\For Crops Buying.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\For Crops Buying\For Crops Buying\obj\Debug\For_Crops_Buying.Form1.resources
+C:\Users\Thean\source\repos\For Crops Buying\For Crops Buying\obj\Debug\For_Crops_Buying.Properties.Resources.resources
+C:\Users\Thean\source\repos\For Crops Buying\For Crops Buying\obj\Debug\For Crops Buying.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\For Crops Buying\For Crops Buying\obj\Debug\For Crops Buying.exe
+C:\Users\Thean\source\repos\For Crops Buying\For Crops Buying\obj\Debug\For Crops Buying.pdb

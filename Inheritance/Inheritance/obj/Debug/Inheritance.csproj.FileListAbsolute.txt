@@ -1,0 +1,8 @@
+C:\Users\Thean\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Thean\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Thean\source\repos\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Thean\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.Properties.Resources.resources
+C:\Users\Thean\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Thean\source\repos\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

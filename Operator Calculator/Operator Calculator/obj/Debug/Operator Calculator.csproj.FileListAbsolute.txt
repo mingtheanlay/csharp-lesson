@@ -1,0 +1,9 @@
+C:\Users\Thean\source\repos\Operator Calculator\Operator Calculator\bin\Debug\Operator Calculator.exe.config
+C:\Users\Thean\source\repos\Operator Calculator\Operator Calculator\bin\Debug\Operator Calculator.exe
+C:\Users\Thean\source\repos\Operator Calculator\Operator Calculator\bin\Debug\Operator Calculator.pdb
+C:\Users\Thean\source\repos\Operator Calculator\Operator Calculator\obj\Debug\Operator Calculator.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\Operator Calculator\Operator Calculator\obj\Debug\Operator_Calculator.Form1.resources
+C:\Users\Thean\source\repos\Operator Calculator\Operator Calculator\obj\Debug\Operator_Calculator.Properties.Resources.resources
+C:\Users\Thean\source\repos\Operator Calculator\Operator Calculator\obj\Debug\Operator Calculator.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\Operator Calculator\Operator Calculator\obj\Debug\Operator Calculator.exe
+C:\Users\Thean\source\repos\Operator Calculator\Operator Calculator\obj\Debug\Operator Calculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\Thean\source\repos\TestCShape\TestCShape\bin\Debug\TestCShape.exe.config
+C:\Users\Thean\source\repos\TestCShape\TestCShape\bin\Debug\TestCShape.exe
+C:\Users\Thean\source\repos\TestCShape\TestCShape\bin\Debug\TestCShape.pdb
+C:\Users\Thean\source\repos\TestCShape\TestCShape\obj\Debug\TestCShape.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\TestCShape\TestCShape\obj\Debug\TestCShape.exe
+C:\Users\Thean\source\repos\TestCShape\TestCShape\obj\Debug\TestCShape.pdb

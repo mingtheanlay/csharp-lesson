@@ -1,0 +1,10 @@
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\bin\Debug\Personal Data Entry.exe.config
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\bin\Debug\Personal Data Entry.exe
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\bin\Debug\Personal Data Entry.pdb
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\obj\Debug\Personal Data Entry.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\obj\Debug\Personal_Data_Entry.Form1.resources
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\obj\Debug\Personal_Data_Entry.Properties.Resources.resources
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\obj\Debug\Personal Data Entry.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\obj\Debug\Personal Data Entry.csproj.CoreCompileInputs.cache
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\obj\Debug\Personal Data Entry.exe
+C:\Users\Thean\source\repos\Personal Data Entry\Personal Data Entry\obj\Debug\Personal Data Entry.pdb

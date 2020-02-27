@@ -1,0 +1,10 @@
+C:\Users\Thean\source\repos\Exercise\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Thean\source\repos\Exercise\Exercise\bin\Debug\Exercise.exe
+C:\Users\Thean\source\repos\Exercise\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Thean\source\repos\Exercise\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\Exercise\Exercise\obj\Debug\Exercise.Form1.resources
+C:\Users\Thean\source\repos\Exercise\Exercise\obj\Debug\Exercise.Properties.Resources.resources
+C:\Users\Thean\source\repos\Exercise\Exercise\obj\Debug\Exercise.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Thean\source\repos\Exercise\Exercise\obj\Debug\Exercise.exe
+C:\Users\Thean\source\repos\Exercise\Exercise\obj\Debug\Exercise.pdb

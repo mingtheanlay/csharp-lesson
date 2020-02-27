@@ -1,0 +1,10 @@
+C:\Users\Thean\source\repos\Sa\Sa\obj\Debug\Sa.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\Sa\Sa\obj\Debug\Sa.Form1.resources
+C:\Users\Thean\source\repos\Sa\Sa\obj\Debug\Sa.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\Sa\Sa\obj\Debug\Sa.csproj.CoreCompileInputs.cache
+C:\Users\Thean\source\repos\Sa\Sa\bin\Debug\OneMethodThreeButton.exe.config
+C:\Users\Thean\source\repos\Sa\Sa\bin\Debug\OneMethodThreeButton.exe
+C:\Users\Thean\source\repos\Sa\Sa\bin\Debug\OneMethodThreeButton.pdb
+C:\Users\Thean\source\repos\Sa\Sa\obj\Debug\OneMethodThreeButton.Properties.Resources.resources
+C:\Users\Thean\source\repos\Sa\Sa\obj\Debug\OneMethodThreeButton.exe
+C:\Users\Thean\source\repos\Sa\Sa\obj\Debug\OneMethodThreeButton.pdb

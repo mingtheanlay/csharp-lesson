@@ -1,0 +1,10 @@
+C:\Users\Thean\source\repos\findRectangle\findRectangle\bin\Debug\findRectangle.exe.config
+C:\Users\Thean\source\repos\findRectangle\findRectangle\bin\Debug\findRectangle.exe
+C:\Users\Thean\source\repos\findRectangle\findRectangle\bin\Debug\findRectangle.pdb
+C:\Users\Thean\source\repos\findRectangle\findRectangle\obj\Debug\findRectangle.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\findRectangle\findRectangle\obj\Debug\findRectangle.Form1.resources
+C:\Users\Thean\source\repos\findRectangle\findRectangle\obj\Debug\findRectangle.Properties.Resources.resources
+C:\Users\Thean\source\repos\findRectangle\findRectangle\obj\Debug\findRectangle.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\findRectangle\findRectangle\obj\Debug\findRectangle.csproj.CoreCompileInputs.cache
+C:\Users\Thean\source\repos\findRectangle\findRectangle\obj\Debug\findRectangle.exe
+C:\Users\Thean\source\repos\findRectangle\findRectangle\obj\Debug\findRectangle.pdb

@@ -1,0 +1,10 @@
+C:\Users\Thean\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\Thean\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\Thean\source\repos\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\Thean\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.Properties.Resources.resources
+C:\Users\Thean\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Thean\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\Thean\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.pdb
+C:\Users\Thean\source\repos\Rectangle\Rectangle\obj\Debug\Rectangle.Form1.resources

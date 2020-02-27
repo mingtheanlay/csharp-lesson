@@ -1,0 +1,10 @@
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\bin\Debug\Branches_Expenses.exe.config
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\bin\Debug\Branches_Expenses.exe
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\bin\Debug\Branches_Expenses.pdb
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\obj\Debug\Branches_Expenses.csprojResolveAssemblyReference.cache
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\obj\Debug\Branches_Expenses.Form1.resources
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\obj\Debug\Branches_Expenses.Form2.resources
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\obj\Debug\Branches_Expenses.Properties.Resources.resources
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\obj\Debug\Branches_Expenses.csproj.GenerateResource.Cache
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\obj\Debug\Branches_Expenses.exe
+c:\users\rupp\documents\visual studio 2012\Projects\Branches_Expenses\Branches_Expenses\obj\Debug\Branches_Expenses.pdb

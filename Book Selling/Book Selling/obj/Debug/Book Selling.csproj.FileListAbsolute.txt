@@ -1,0 +1,10 @@
+C:\Users\Thean\source\repos\Book Selling\Book Selling\obj\Debug\Book Selling.csprojAssemblyReference.cache
+C:\Users\Thean\source\repos\Book Selling\Book Selling\obj\Debug\Book_Selling.Form1.resources
+C:\Users\Thean\source\repos\Book Selling\Book Selling\obj\Debug\Book_Selling.Properties.Resources.resources
+C:\Users\Thean\source\repos\Book Selling\Book Selling\obj\Debug\Book Selling.csproj.GenerateResource.cache
+C:\Users\Thean\source\repos\Book Selling\Book Selling\obj\Debug\Book Selling.csproj.CoreCompileInputs.cache
+C:\Users\Thean\source\repos\Book Selling\Book Selling\bin\Debug\Book Selling.exe.config
+C:\Users\Thean\source\repos\Book Selling\Book Selling\bin\Debug\Book Selling.exe
+C:\Users\Thean\source\repos\Book Selling\Book Selling\bin\Debug\Book Selling.pdb
+C:\Users\Thean\source\repos\Book Selling\Book Selling\obj\Debug\Book Selling.exe
+C:\Users\Thean\source\repos\Book Selling\Book Selling\obj\Debug\Book Selling.pdb
